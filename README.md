@@ -1,0 +1,2 @@
+# rosemail
+Plugins
